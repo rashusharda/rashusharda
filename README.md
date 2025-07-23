@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **an exciting project-soon to be shared!**
 
-- 🌱 I’m currently learning **C, workings behind AI and problem solving.**
-
-- 📝 I regularly write articles on [https://medium.com/@shardarashu](https://medium.com/@shardarashu)
+- 🌱 I’m currently learning **Javascript, workings behind AI and problem solving.**
 
 - 📫 How to reach me **shardarashu@gmail.com**
 
