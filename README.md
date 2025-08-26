@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashu</h1>
 <h3 align="center">A undergraduate CS student passionate about AI and Cybersecurity.</h3>
 
-- 🔭 I’m currently working on **an exciting project-soon to be shared!**
+- 🔭 I’m currently working on **my personal website & ASSU website!**
 
 - 🌱 I’m currently learning **Javascript, workings behind AI and problem solving.**
 
